@@ -181,10 +181,10 @@ Shipping > Perfection
 
 <p align="center">
   <a href="https://alfanjanuar.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-alfanjanuar.is--a.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-alfanjanuar.is_a.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:alfanjanuar50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alfanjanuar50@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/alfanjanuar">
     <img src="https://img.shields.io/badge/LinkedIn-alfanjanuar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
